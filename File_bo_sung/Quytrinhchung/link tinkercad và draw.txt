@@ -1,0 +1,12 @@
+draw.io:
+https://drive.google.com/file/d/1j9tdkVr_Gi742AP8U-yQ35Arr2Af92mI/view?usp=sharing
+
+Cảm biến nhiệt:
+https://www.tinkercad.com/things/4CvZYw1foIZ-tempsensor/editel?sharecode=E5-kZQmicfGauxKiRDuxf97ppdr8qH3cr4Or9xz3b3I
+
+Cảm biến ánh sáng:
+https://www.tinkercad.com/things/fEO7Al8698k-dazzling-maimu-kieran/editel?tenant=circuits
+
+Cảm biến chuyển động:
+https://www.tinkercad.com/things/alNd49SV8yT-pir-sensor/editel?sharecode=rTQVtNjqhuFllAq877GZV-xHcnijUNPIEFIm7K7cdkk
+

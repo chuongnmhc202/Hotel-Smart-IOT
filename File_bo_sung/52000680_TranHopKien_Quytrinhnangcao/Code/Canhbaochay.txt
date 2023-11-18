@@ -1,0 +1,29 @@
+int LED = 13; //chân led
+int gas_sensor = A0;
+int speaker = 4;
+
+void setup()
+{
+  pinMode(speaker, OUTPUT);
+	Serial.begin(9600);
+}
+
+void loop() 
+{
+	float sensorValue;
+  sensorValue = analogRead(gas_sensor);
+  if(sensorValue >= 250)
+  {
+  	digitalWrite(LED, HIGH);
+    tone(speaker ,200, 100);
+    delay(200);
+    Serial.println(sensorValue);
+    Serial.println("Fire");
+  }
+  else 
+  {
+  	digitalWrite(LED, LOW);
+    Serial.println(sensorValue);
+  }
+  
+}
